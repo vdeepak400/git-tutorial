@@ -1,1 +1,1 @@
-this is the first git 
+this is first part of git tutorial
